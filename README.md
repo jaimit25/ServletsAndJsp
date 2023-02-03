@@ -3,6 +3,9 @@
 
 #### ⚡ Language 
  - Java
+ 
+####  Technology 
+ - Java Servlets and JSP
 
 Repository Contains Servlet and jsp Basic Concept.
 
